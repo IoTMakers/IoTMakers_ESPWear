@@ -6,11 +6,11 @@ The ESPWear can be powered by battery and provides a switch to easily switch it 
 It can be easily programmable from serial connection or by OTA (Over the Air).
 
 # Features
-7 x GPIO
-1 x ADC
-1 x SPI
-1 x I2C
-1 x I2S
+- 7 x GPIO
+- 1 x ADC
+- 1 x SPI
+- 1 x I2C
+- 1 x I2S
 
 # Reference 
 - [IoTMakers Omega2 Base Board](http://iotmakers.com.br/esp8266/iot-for-wearables-espwear/)
